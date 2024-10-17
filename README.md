@@ -69,9 +69,9 @@ CREATE TABLE events (
 
 1. Clone the repository to your local machine:
 
-git clone 
+  git clone 
 ```
-https://github.com/yourusername/schedula.git
+https://github.com/shalini2773/schedula.git
 ```
 
 2. Open the project in your favorite IDE (e.g., Visual Studio Code).
