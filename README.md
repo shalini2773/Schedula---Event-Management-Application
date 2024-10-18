@@ -71,7 +71,7 @@ CREATE TABLE events (
 
   git clone 
 ```
-https://github.com/shalini2773/schedula.git
+https://github.com/shalini2773/Schedula---Event-Management-Application.git
 ```
 
 2. Open the project in your favorite IDE (e.g., Visual Studio Code).
